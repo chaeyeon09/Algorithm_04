@@ -1,9 +1,13 @@
 # Algorithm_04!
-[Uploading model1_failure.png…]()
-![model1_success](https://user-images.githubusercontent.com/80663064/173285892-eb7e1f3f-a2ab-40f4-b6c2-b5284769ae3a.png)
+1. model1 failure / success
+![model1_failure](https://user-images.githubusercontent.com/80663064/173286060-40ffcfb6-0197-48f4-b071-9bfde0ce2f37.png)
+![model1_success](https://user-images.githubusercontent.com/80663064/173286073-27828675-257a-45cc-a417-1478e06e2b1b.png)
 
-![model2_failure](https://user-images.githubusercontent.com/80663064/173285909-b806ef13-6ce5-42b4-84ba-0b2e7fa365fe.png)
-![model2_success](https://user-images.githubusercontent.com/80663064/173285925-2b28dde1-8375-4b23-b019-25c060ddcec6.png)
+2. model2 failure/ success
+![model2_failure](https://user-images.githubusercontent.com/80663064/173286197-a337f846-c2b7-48f5-bdc3-f5b031b575e7.png)
+![model2_success](https://user-images.githubusercontent.com/80663064/173286214-d4a30899-b18f-410a-832f-5c1a371e6def.png)
 
-![model3_failure](https://user-images.githubusercontent.com/80663064/173285931-74b35e2b-f32e-4bf8-8729-e1dc7548efcf.png)
-![model3_success](https://user-images.githubusercontent.com/80663064/173285935-29ae13de-c69a-413c-9935-25e0923da399.png)
+3. model3 failure/ success
+![model3_failure](https://user-images.githubusercontent.com/80663064/173286245-5c62dae7-4b89-4397-bf46-038a8d342503.png)
+![model3_success](https://user-images.githubusercontent.com/80663064/173286263-91165f29-24b7-41d1-a43b-3d6930f1f0ad.png)
+
